@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mmmsmith12122.lwc-l3oxoitg",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve tpuD0ZMkL8NQfYdlAZD8 --open"
+  }
+}
